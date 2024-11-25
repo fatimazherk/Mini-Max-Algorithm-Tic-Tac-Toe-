@@ -55,16 +55,19 @@ This project demonstrates the following:
   - It provides a great starting point for anyone looking to understand game AI, algorithms, and interactive programming.
 
 ---
-## Pictures
+## Game Screenshots
 
+![Game Screenshot 1](tictactoe/pic1.png)
+
+![Game Screenshot 2](tictactoe/image.png)
 ---
 
 ## Group Members
 
-- **Fatima Khan** 🩷
-- **Rania Imran** 🩷
-- **Laiba Aminani** 🩷
-- **Javeria Ziad** 🩷
+- **Fatima Khan** 
+- **Rania Imran** 
+- **Laiba Aminani** 
+- **Javeria Ziad** 
 
 ---
 
@@ -73,7 +76,7 @@ This project demonstrates the following:
 - [Raylib Documentation](https://www.raylib.com/): A comprehensive guide to using Raylib for graphics programming and game development.
 - **Minimax Algorithm Tutorials** 🩷: These tutorials provided essential insights into creating optimal decision-making algorithms for games.
 - **General Inspiration** 🩷: Classic games and modern UI principles inspired the game's design and flow, ensuring that the user experience is both enjoyable and user-friendly.
-- **Murk Marvi** 🩷:  DSAA Lecturer @ NEDUET Karachi
+- **Dr Murk Marvi** 🩷:  DSAA Lecturer @ NEDUET Karachi
 ---
 
  ![GIF](https://giffiles.alphacoders.com/163/163281.gif)
